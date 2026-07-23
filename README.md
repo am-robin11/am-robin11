@@ -1,4 +1,4 @@
-# Hi, I'm Azher Mahmud 👋
+# Hi, I'm Ajher Mahmud 👋
 
 🎓 BSc in Computer Science & Engineering | Fresh Graduate  
 📍 Dhaka, Bangladesh  
