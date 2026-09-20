@@ -68,7 +68,7 @@ I build with Python, data, and machine learning at my core — and I'm currently
 **Enterprise / CRM**
 
 <p>
-  <a href="https://www.salesforce.com/"><img src="https://skillicons.dev/icons?i=salesforce" height="36" /></a>
+  <a href="https://www.salesforce.com/"><img src="https://img.shields.io/badge/Salesforce-1a1b27?style=for-the-badge" /></a>
   <a href="https://www.sap.com/"><img src="https://img.shields.io/badge/SAP-1a1b27?style=for-the-badge&logo=sap&logoColor=white" /></a>
 </p>
 
@@ -105,7 +105,7 @@ I build with Python, data, and machine learning at my core — and I'm currently
   <a href="https://leetcode.com/YOUR-USERNAME/"><img src="https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
   <a href="https://www.kaggle.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/Kaggle-1a1b27?style=for-the-badge&logo=kaggle&logoColor=20BEFF" /></a>
   <a href="https://codeforces.com/profile/YOUR-USERNAME"><img src="https://img.shields.io/badge/Codeforces-1a1b27?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" /></a>
-  <a href="https://atcoder.jp/users/YOUR-USERNAME"><img src="https://img.shields.io/badge/AtCoder-1a1b27?style=for-the-badge&logo=atcoder&logoColor=CBD5E1" /></a>
+  <a href="https://atcoder.jp/users/YOUR-USERNAME"><img src="https://img.shields.io/badge/AtCoder-1a1b27?style=for-the-badge" /></a>
   <a href="https://facebook.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/Facebook-1a1b27?style=for-the-badge&logo=facebook&logoColor=1877F2" /></a>
   <a href="https://steamcommunity.com/id/YOUR-USERNAME"><img src="https://img.shields.io/badge/Steam-1a1b27?style=for-the-badge&logo=steam&logoColor=66C0F4" /></a>
 </p>
