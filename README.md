@@ -32,46 +32,47 @@ I build with Python, data, and machine learning at my core — and I'm currently
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C%23-1a1b27?style=for-the-badge&logo=csharp&logoColor=9179F0" />
-  <img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Apex-1a1b27?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=3776AB" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-1a1b27?style=for-the-badge&logo=csharp&logoColor=9179F0" /></a>
+  <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=ED8B00" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+  <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm"><img src="https://img.shields.io/badge/Apex-1a1b27?style=for-the-badge&logo=salesforce&logoColor=00A1E0" /></a>
 </p>
 
 **Frameworks**
 
 <p>
-  <img src="https://img.shields.io/badge/Django-1a1b27?style=for-the-badge&logo=django&logoColor=44B78B" />
-  <img src="https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/.NET-1a1b27?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-1a1b27?style=for-the-badge&logo=django&logoColor=44B78B" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=009688" /></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-1a1b27?style=for-the-badge&logo=dotnet&logoColor=512BD4" /></a>
 </p>
 
 **Artificial Intelligence, Machine Learning & Data Science**
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-1a1b27?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/HuggingFace-1a1b27?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
-  <img src="https://img.shields.io/badge/TensorFlow-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
-  <img src="https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=E70488" />
-  <img src="https://img.shields.io/badge/Matplotlib-1a1b27?style=for-the-badge&logo=plotly&logoColor=F7931E" />
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-1a1b27?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" /></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-1a1b27?style=for-the-badge&logo=huggingface&logoColor=FFD21E" /></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" /></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=4DABCF" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=E70488" /></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-1a1b27?style=for-the-badge&logo=plotly&logoColor=F7931E" /></a>
 </p>
 
 **Enterprise / CRM**
 
 <p>
-  <img src="https://img.shields.io/badge/Salesforce-1a1b27?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+  <a href="https://www.salesforce.com/"><img src="https://img.shields.io/badge/Salesforce-1a1b27?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
+  <a href="https://www.sap.com/"><img src="https://img.shields.io/badge/SAP-1a1b27?style=for-the-badge&logo=sap&logoColor=white" /></a>
 </p>
 
 **Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Jira-1a1b27?style=for-the-badge&logo=jira&logoColor=0052CC" />
-  <img src="https://img.shields.io/badge/Redmine-1a1b27?style=for-the-badge&logo=redmine&logoColor=A6192E" />
-  <img src="https://img.shields.io/badge/Visual_Studio-1a1b27?style=for-the-badge&logo=visualstudio&logoColor=5C2D91" />
-  <img src="https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032" /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-1a1b27?style=for-the-badge&logo=jira&logoColor=0052CC" /></a>
+  <a href="https://www.redmine.org/"><img src="https://img.shields.io/badge/Redmine-1a1b27?style=for-the-badge&logo=redmine&logoColor=A6192E" /></a>
+  <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-1a1b27?style=for-the-badge&logo=visualstudio&logoColor=5C2D91" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /></a>
 </p>
 
 <br/>
@@ -79,9 +80,6 @@ I build with Python, data, and machine learning at my core — and I'm currently
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=am-robin11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F97316&text_color=C9D1D9&cache_seconds=86400" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-robin11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=86400" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=am-robin11&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA" />
 
@@ -94,7 +92,7 @@ I build with Python, data, and machine learning at my core — and I'm currently
 <div align="center">
 
 <p>
-  <a href="https://www.linkedin.com/in/ajher-mahmud/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://www.linkedin.com/in/ajher-mahmud/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/YOUR-USERNAME/"><img src="https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
   <a href="https://www.kaggle.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/Kaggle-1a1b27?style=for-the-badge&logo=kaggle&logoColor=20BEFF" /></a>
   <a href="https://codeforces.com/profile/YOUR-USERNAME"><img src="https://img.shields.io/badge/Codeforces-1a1b27?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" /></a>
