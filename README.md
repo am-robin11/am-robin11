@@ -62,7 +62,7 @@ I build with Python, data, and machine learning at my core — and I'm currently
   <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" height="48" title="TensorFlow" /></a>
   <a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy" height="48" title="NumPy" /></a>
   <a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas" height="48" title="Pandas" /></a>
-  <a href="https://matplotlib.org/"><img src="https://cdn.simpleicons.org/matplotlib" height="48" title="Matplotlib" /></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-1a1b27?style=for-the-badge" /></a>
 </p>
 
 **Enterprise / CRM**
