@@ -47,6 +47,13 @@ I build with Python, data, and machine learning at my core — and I'm currently
   <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-1a1b27?style=for-the-badge&logo=dotnet&logoColor=512BD4" /></a>
 </p>
 
+**Databases**
+
+<p>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=4479A1" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></a>
+</p>
+
 **Artificial Intelligence, Machine Learning & Data Science**
 
 <p>
@@ -61,7 +68,7 @@ I build with Python, data, and machine learning at my core — and I'm currently
 **Enterprise / CRM**
 
 <p>
-  <a href="https://www.salesforce.com/"><img src="https://img.shields.io/badge/Salesforce-1a1b27?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
+  <a href="https://www.salesforce.com/"><img src="https://skillicons.dev/icons?i=salesforce" height="36" /></a>
   <a href="https://www.sap.com/"><img src="https://img.shields.io/badge/SAP-1a1b27?style=for-the-badge&logo=sap&logoColor=white" /></a>
 </p>
 
@@ -69,10 +76,12 @@ I build with Python, data, and machine learning at my core — and I'm currently
 
 <p>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=2496ED" /></a>
+  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-1a1b27?style=for-the-badge&logo=postman&logoColor=FF6C37" /></a>
   <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-1a1b27?style=for-the-badge&logo=jira&logoColor=0052CC" /></a>
   <a href="https://www.redmine.org/"><img src="https://img.shields.io/badge/Redmine-1a1b27?style=for-the-badge&logo=redmine&logoColor=A6192E" /></a>
-  <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-1a1b27?style=for-the-badge&logo=visualstudio&logoColor=5C2D91" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /></a>
+  <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" height="36" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="36" /></a>
 </p>
 
 <br/>
@@ -92,7 +101,7 @@ I build with Python, data, and machine learning at my core — and I'm currently
 <div align="center">
 
 <p>
-  <a href="https://www.linkedin.com/in/ajher-mahmud/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ajher-mahmud/"><img src="https://skillicons.dev/icons?i=linkedin" height="36" /></a>
   <a href="https://leetcode.com/YOUR-USERNAME/"><img src="https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
   <a href="https://www.kaggle.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/Kaggle-1a1b27?style=for-the-badge&logo=kaggle&logoColor=20BEFF" /></a>
   <a href="https://codeforces.com/profile/YOUR-USERNAME"><img src="https://img.shields.io/badge/Codeforces-1a1b27?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" /></a>
