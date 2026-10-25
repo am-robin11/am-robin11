@@ -32,6 +32,8 @@ I build with Python, data, and machine learning at my core — and I'm currently
 **Languages**
 
 <p>
+  <a href="https://en.cppreference.com/w/c"><img src="./assets/icons/c.svg" width="48" height="48" alt="C" title="C" /></a>
+  <a href="https://isocpp.org/"><img src="./assets/icons/cpp.svg" width="48" height="48" alt="C++" title="C++" /></a>
   <a href="https://www.python.org/"><img src="./assets/icons/python.svg" width="48" height="48" alt="Python" title="Python" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./assets/icons/cs.svg" width="48" height="48" alt="C#" title="C#" /></a>
   <a href="https://www.oracle.com/java/"><img src="./assets/icons/java.svg" width="48" height="48" alt="Java" title="Java" /></a>
@@ -60,6 +62,8 @@ I build with Python, data, and machine learning at my core — and I'm currently
   <a href="https://pytorch.org/"><img src="./assets/icons/pytorch.svg" width="48" height="48" alt="PyTorch" title="PyTorch" /></a>
   <a href="https://huggingface.co/"><img src="./assets/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" title="Hugging Face" /></a>
   <a href="https://www.tensorflow.org/"><img src="./assets/icons/tensorflow.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow" /></a>
+  <a href="https://scikit-learn.org/"><img src="./assets/icons/scikitlearn.svg" width="48" height="48" alt="scikit-learn" title="scikit-learn" /></a>
+  <a href="https://keras.io/"><img src="./assets/icons/keras.svg" width="48" height="48" alt="Keras" title="Keras" /></a>
   <a href="https://numpy.org/"><img src="./assets/icons/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy" /></a>
   <a href="https://pandas.pydata.org/"><img src="./assets/icons/pandas.svg" width="48" height="48" alt="pandas" title="pandas" /></a>
   <a href="https://matplotlib.org/"><img src="./assets/icons/matplotlib.svg" width="48" height="48" alt="Matplotlib" title="Matplotlib" /></a>
