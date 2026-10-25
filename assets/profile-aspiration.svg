@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="152" viewBox="0 0 264 152" role="img" aria-labelledby="title desc">
+<title id="title">Aspiring Data Scientist</title><desc id="desc">Career aspiration: Data Scientist, with a focus on machine learning and AI.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#162D3A"/><stop offset="1" stop-color="#111827"/></linearGradient><linearGradient id="line"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0"/></linearGradient><clipPath id="clip"><rect x=".5" y=".5" width="263" height="151" rx="18"/></clipPath></defs>
+<g clip-path="url(#clip)"><rect x=".5" y=".5" width="263" height="151" rx="18" fill="url(#bg)" stroke="#285063"/>
+<circle cx="259" cy="150" r="75" fill="#67E8F9" opacity=".045"/><circle cx="259" cy="150" r="54" fill="none" stroke="#67E8F9" opacity=".10"/>
+<path d="M20 1H244" stroke="url(#line)" stroke-width="2"/>
+<g font-family="Segoe UI,Arial,Helvetica,sans-serif">
+<text x="20" y="32" font-size="10" font-weight="700" letter-spacing="1.7" fill="#67E8F9">LOOKING AHEAD</text>
+<text x="20" y="74" font-size="24" font-weight="700" fill="#F3F4FF">Aspiring</text>
+<text x="20" y="100" font-size="24" font-weight="700" fill="#ECFEFF">Data Scientist</text>
+<text x="20" y="132" font-size="11" fill="#A6ADC4">Machine Learning · AI · Discovery</text>
+</g>
+<g transform="translate(215 19)" fill="none" stroke="#67E8F9" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M1 2V24H26M5 18L11 12L17 15L24 5"/><circle cx="11" cy="12" r="2" fill="#67E8F9" stroke="none"/><circle cx="17" cy="15" r="2" fill="#67E8F9" stroke="none"/><circle cx="24" cy="5" r="2" fill="#67E8F9" stroke="none"/></g>
+</g></svg>
