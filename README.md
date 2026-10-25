@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+with+Python%2C+Django%2C+FastAPI+%26+.NET;Training+in+ERP%2C+SAP+%26+Salesforce+(Apex);Exploring+AI%2C+ML+%26+LLMs;Competitive+Programmer+in+progress" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/BSc-Computer_Science-1E1B4B?style=for-the-badge" alt="degree" />
-  <img src="https://img.shields.io/badge/BJIT_Academy-ERP_%7C_SAP_%7C_Salesforce-7C3AED?style=for-the-badge" alt="trainee status" />
-  <img src="https://img.shields.io/badge/📍_Dhaka-Bangladesh-333333?style=for-the-badge" alt="location" />
+  <img src="https://img.shields.io/badge/BSc-Computer_Science-4338CA?style=for-the-badge&amp;labelColor=242938" alt="BSc in Computer Science" />
+  <img src="https://img.shields.io/badge/BJIT_Academy-ERP_%7C_SAP_%7C_Salesforce-7C3AED?style=for-the-badge&amp;labelColor=242938" alt="BJIT Academy — ERP, SAP and Salesforce" />
+  <img src="https://img.shields.io/badge/Role-Data_Scientist-6D28D9?style=for-the-badge&amp;labelColor=242938" alt="Data Scientist" />
 </p>
 
 </div>
@@ -87,6 +87,8 @@ I build with Python, data, and machine learning at my core — and I'm currently
   <a href="https://www.atlassian.com/software/jira"><img src="./assets/icons/jira.svg" width="48" height="48" alt="Jira" title="Jira" /></a>
   <a href="https://www.redmine.org/"><img src="./assets/icons/redmine.svg" width="48" height="48" alt="Redmine" title="Redmine" /></a>
   <a href="https://visualstudio.microsoft.com/"><img src="./assets/icons/visualstudio.svg" width="48" height="48" alt="Visual Studio" title="Visual Studio" /></a>
+  <a href="https://jupyter.org/"><img src="./assets/icons/jupyter.svg" width="48" height="48" alt="Jupyter Notebook" title="Jupyter Notebook" /></a>
+  <a href="https://colab.research.google.com/"><img src="./assets/icons/googlecolab.svg" width="48" height="48" alt="Google Colab" title="Google Colab" /></a>
   <a href="https://code.visualstudio.com/"><img src="./assets/icons/vscode.svg" width="48" height="48" alt="VS Code" title="VS Code" /></a>
 </p>
 
