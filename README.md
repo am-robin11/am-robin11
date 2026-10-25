@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+with+Python%2C+Django%2C+FastAPI+%26+.NET;Training+in+ERP%2C+SAP+%26+Salesforce+(Apex);Exploring+AI%2C+ML+%26+LLMs;Competitive+Programmer+in+progress" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/BSc-Computer_Science-4338CA?style=for-the-badge&amp;labelColor=242938" alt="BSc in Computer Science" />
-  <img src="https://img.shields.io/badge/BJIT_Academy-ERP_%7C_SAP_%7C_Salesforce-7C3AED?style=for-the-badge&amp;labelColor=242938" alt="BJIT Academy — ERP, SAP and Salesforce" />
-  <img src="https://img.shields.io/badge/Role-Data_Scientist-6D28D9?style=for-the-badge&amp;labelColor=242938" alt="Data Scientist" />
+  <img src="./assets/profile-education.svg" width="264" height="152" alt="Foundation: BSc in Computer Science" />
+  <img src="./assets/profile-training.svg" width="264" height="152" alt="Building now: ERP &amp; CRM Solutions — training at BJIT Academy" />
+  <img src="./assets/profile-aspiration.svg" width="264" height="152" alt="Looking ahead: Aspiring Data Scientist" />
 </p>
 
 </div>
