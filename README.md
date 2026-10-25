@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:1E1B4B&amp;height=200&amp;section=header&amp;text=Ajher%20Mahmud&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20Engineer%20in%20Training%20%7C%20AI%2FML%20Enthusiast&amp;descAlignY=55&amp;descSize=18" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+with+Python%2C+Django%2C+FastAPI+%26+.NET;Training+in+ERP%2C+SAP+%26+Salesforce+(Apex);Exploring+AI%2C+ML+%26+LLMs;Competitive+Programmer+in+progress" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+with+Python%2C+Django%2C+FastAPI+%26+.NET;Training+in+ERP%2C+SAP+%26+Salesforce;Exploring+AI%2C+ML+%26+LLMs;Competitive+Programmer+in+progress" alt="Typing SVG" />
 
 <p>
   <img src="./assets/profile-education.svg" width="264" height="152" alt="Foundation: BSc in Computer Science" />
