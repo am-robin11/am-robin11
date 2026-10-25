@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:1E1B4B&height=200&section=header&text=Ajher%20Mahmud&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20in%20Training%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:1E1B4B&amp;height=200&amp;section=header&amp;text=Ajher%20Mahmud&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20Engineer%20in%20Training%20%7C%20AI%2FML%20Enthusiast&amp;descAlignY=55&amp;descSize=18" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+with+Python%2C+Django%2C+FastAPI+%26+.NET;Training+in+ERP%2C+SAP+%26+Salesforce+(Apex);Exploring+AI%2C+ML+%26+LLMs;Competitive+Programmer+in+progress" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+with+Python%2C+Django%2C+FastAPI+%26+.NET;Training+in+ERP%2C+SAP+%26+Salesforce+(Apex);Exploring+AI%2C+ML+%26+LLMs;Competitive+Programmer+in+progress" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/BSc-Computer_Science-1E1B4B?style=for-the-badge" alt="degree" />
@@ -32,56 +32,58 @@ I build with Python, data, and machine learning at my core — and I'm currently
 **Languages**
 
 <p>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="48" title="Python" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="48" title="C#" /></a>
-  <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" height="48" title="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="48" title="JavaScript" /></a>
-  <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm"><img src="https://img.shields.io/badge/Apex-1a1b27?style=for-the-badge" /></a>
+  <a href="https://www.python.org/"><img src="./assets/icons/python.svg" width="48" height="48" alt="Python" title="Python" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./assets/icons/cs.svg" width="48" height="48" alt="C#" title="C#" /></a>
+  <a href="https://www.oracle.com/java/"><img src="./assets/icons/java.svg" width="48" height="48" alt="Java" title="Java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm"><img src="./assets/icons/apex.svg" width="48" height="48" alt="Apex" title="Apex" /></a>
 </p>
 
 **Frameworks**
 
 <p>
-  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" height="48" title="Django" /></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="48" title="FastAPI" /></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" height="48" title=".NET" /></a>
+  <a href="https://www.djangoproject.com/"><img src="./assets/icons/django.svg" width="48" height="48" alt="Django" title="Django" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="./assets/icons/fastapi.svg" width="48" height="48" alt="FastAPI" title="FastAPI" /></a>
+  <a href="https://dotnet.microsoft.com/"><img src="./assets/icons/dotnet.svg" width="48" height="48" alt=".NET" title=".NET" /></a>
 </p>
 
 **Databases**
 
 <p>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="48" title="MySQL" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="48" title="PostgreSQL" /></a>
+  <a href="https://www.mysql.com/"><img src="./assets/icons/mysql.svg" width="48" height="48" alt="MySQL" title="MySQL" /></a>
+  <a href="https://www.postgresql.org/"><img src="./assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" /></a>
 </p>
 
 **Artificial Intelligence, Machine Learning & Data Science**
 
 <p>
-  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" height="48" title="PyTorch" /></a>
-  <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface" height="48" title="HuggingFace" /></a>
-  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" height="48" title="TensorFlow" /></a>
-  <a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy" height="48" title="NumPy" /></a>
-  <a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas" height="48" title="Pandas" /></a>
-  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-1a1b27?style=for-the-badge" /></a>
+  <a href="https://pytorch.org/"><img src="./assets/icons/pytorch.svg" width="48" height="48" alt="PyTorch" title="PyTorch" /></a>
+  <a href="https://huggingface.co/"><img src="./assets/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" title="Hugging Face" /></a>
+  <a href="https://www.tensorflow.org/"><img src="./assets/icons/tensorflow.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow" /></a>
+  <a href="https://numpy.org/"><img src="./assets/icons/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy" /></a>
+  <a href="https://pandas.pydata.org/"><img src="./assets/icons/pandas.svg" width="48" height="48" alt="pandas" title="pandas" /></a>
+  <a href="https://matplotlib.org/"><img src="./assets/icons/matplotlib.svg" width="48" height="48" alt="Matplotlib" title="Matplotlib" /></a>
 </p>
 
 **Enterprise / CRM**
 
 <p>
-  <a href="https://www.salesforce.com/"><img src="https://img.shields.io/badge/Salesforce-1a1b27?style=for-the-badge" /></a>
-  <a href="https://www.sap.com/"><img src="https://cdn.simpleicons.org/sap" height="48" title="SAP" /></a>
+  <a href="https://www.salesforce.com/"><img src="./assets/icons/salesforce.svg" width="48" height="48" alt="Salesforce" title="Salesforce" /></a>
+  <a href="https://www.sap.com/"><img src="./assets/icons/sap.svg" width="48" height="48" alt="SAP" title="SAP" /></a>
 </p>
 
 **Tools**
 
 <p>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="48" title="Git" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="48" title="Docker" /></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="48" title="Postman" /></a>
-  <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.simpleicons.org/jira" height="48" title="Jira" /></a>
-  <a href="https://www.redmine.org/"><img src="https://cdn.simpleicons.org/redmine" height="48" title="Redmine" /></a>
-  <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" height="48" title="Visual Studio" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="48" title="VS Code" /></a>
+  <a href="https://git-scm.com/"><img src="./assets/icons/git.svg" width="48" height="48" alt="Git" title="Git" /></a>
+  <a href="https://www.docker.com/"><img src="./assets/icons/docker.svg" width="48" height="48" alt="Docker" title="Docker" /></a>
+  <a href="https://nginx.org/"><img src="./assets/icons/nginx.svg" width="48" height="48" alt="Nginx" title="Nginx" /></a>
+  <a href="https://www.jenkins.io/"><img src="./assets/icons/jenkins.svg" width="48" height="48" alt="Jenkins" title="Jenkins" /></a>
+  <a href="https://www.postman.com/"><img src="./assets/icons/postman.svg" width="48" height="48" alt="Postman" title="Postman" /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="./assets/icons/jira.svg" width="48" height="48" alt="Jira" title="Jira" /></a>
+  <a href="https://www.redmine.org/"><img src="./assets/icons/redmine.svg" width="48" height="48" alt="Redmine" title="Redmine" /></a>
+  <a href="https://visualstudio.microsoft.com/"><img src="./assets/icons/visualstudio.svg" width="48" height="48" alt="Visual Studio" title="Visual Studio" /></a>
+  <a href="https://code.visualstudio.com/"><img src="./assets/icons/vscode.svg" width="48" height="48" alt="VS Code" title="VS Code" /></a>
 </p>
 
 <br/>
@@ -90,7 +92,7 @@ I build with Python, data, and machine learning at my core — and I'm currently
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=am-robin11&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=am-robin11&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=A78BFA&amp;ring=A78BFA&amp;fire=F97316&amp;currStreakLabel=A78BFA" alt="GitHub contribution streak" />
 
 </div>
 
@@ -101,15 +103,15 @@ I build with Python, data, and machine learning at my core — and I'm currently
 <div align="center">
 
 <p>
-  <a href="https://www.linkedin.com/in/ajher-mahmud/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" title="LinkedIn" /></a>
-  <a href="https://leetcode.com/YOUR-USERNAME/"><img src="https://cdn.simpleicons.org/leetcode" height="48" title="LeetCode" /></a>
-  <a href="https://www.kaggle.com/YOUR-USERNAME"><img src="https://cdn.simpleicons.org/kaggle" height="48" title="Kaggle" /></a>
-  <a href="https://codeforces.com/profile/YOUR-USERNAME"><img src="https://cdn.simpleicons.org/codeforces" height="48" title="Codeforces" /></a>
-  <a href="https://atcoder.jp/users/YOUR-USERNAME"><img src="https://img.shields.io/badge/AtCoder-1a1b27?style=for-the-badge" /></a>
-  <a href="https://facebook.com/YOUR-USERNAME"><img src="https://cdn.simpleicons.org/facebook" height="48" title="Facebook" /></a>
-  <a href="https://steamcommunity.com/id/YOUR-USERNAME"><img src="https://cdn.simpleicons.org/steam" height="48" title="Steam" /></a>
+  <a href="https://www.linkedin.com/in/ajher-mahmud/"><img src="./assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="https://leetcode.com/YOUR-USERNAME/"><img src="./assets/icons/leetcode.svg" width="48" height="48" alt="LeetCode" title="LeetCode" /></a>
+  <a href="https://www.kaggle.com/YOUR-USERNAME"><img src="./assets/icons/kaggle.svg" width="48" height="48" alt="Kaggle" title="Kaggle" /></a>
+  <a href="https://codeforces.com/profile/YOUR-USERNAME"><img src="./assets/icons/codeforces.svg" width="48" height="48" alt="Codeforces" title="Codeforces" /></a>
+  <a href="https://atcoder.jp/users/YOUR-USERNAME"><img src="./assets/icons/atcoder.svg" width="48" height="48" alt="AtCoder" title="AtCoder" /></a>
+  <a href="https://facebook.com/YOUR-USERNAME"><img src="./assets/icons/facebook.svg" width="48" height="48" alt="Facebook" title="Facebook" /></a>
+  <a href="https://steamcommunity.com/id/YOUR-USERNAME"><img src="./assets/icons/steam.svg" width="48" height="48" alt="Steam" title="Steam" /></a>
 </p>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:7C3AED&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1E1B4B,100:7C3AED&amp;height=120&amp;section=footer" alt="footer" />

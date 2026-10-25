@@ -1,0 +1,1 @@
+Icon assets are sourced from [Go Skill Icons](https://github.com/LelouchFR/skill-icons) (MIT) and [Simple Icons](https://github.com/simple-icons/simple-icons) (CC0; SAP, Redmine, Codeforces). Apex and AtCoder are custom text tiles, not official brand marks. Brand names and logos belong to their respective owners.
